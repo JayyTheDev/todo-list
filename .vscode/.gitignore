@@ -1,0 +1,14 @@
+# Ignore compiled binary files
+*.exe
+*.out
+*.o
+
+# Ignore backup or temp files
+*~
+*.swp
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build folders if you ever create them
+build/
